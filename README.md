@@ -1,4 +1,4 @@
-# Hidden Markov Model For Named Entity Recognition
+# Hidden Markov Model For Named Entity Recognition (MATLAB)
 
 This project contains an implementation for a Hidden Markov Model for Named Entity Recognition (NER) in MatLab. The parameters are learned from the labelled data and Viterbi decoding is performed for make predictions. 
 
